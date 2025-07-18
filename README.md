@@ -1,10 +1,18 @@
 # Data Science | Applied Statistics
 ### Education
 M.Sc. Applied Statistics and Data Science, Azusa Pacific University (May 2025)
+
 Data Science Bootcamp, Caltech CTME (Feb 2023)
+
 B.Sc. Biology, University of Texas at Arlington (June 2013)
 
+
 ### Experience
+Statistics and Biology expert @ Outlier
+- engineered prompts to induce reasoning errors in popular AI models
+- provided expert-level reasoning chunks to guide model responses
+- reviewed and made correction recommendations to task submissions
+
 Accreditation and Assessment Specialist @ Azusa Pacific University
 - Engineered data
 - Produced multiple annual analytic reports
@@ -19,10 +27,18 @@ Coordinator of TRIO Programs @ Tarrant County College
 - executed data pipelines from collection to reporting and publication for DOE TRIO Programs grants
 - set up data collection procedures and training for employees
 
+
 ### Projects
-Project 1
-Project 2
-Project 3
-Project 4
-Project 5
-Project 6
+Autism Spectrum Disorder Predictive Model
+
+AI Prompt Engineering
+
+Accreditation Annual Report
+
+Monthly Report (BI)
+
+Monthly Report (Ed)
+
+eCommerce Pricing
+
+KPI Dashboard
