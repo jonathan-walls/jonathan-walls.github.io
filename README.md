@@ -1,5 +1,5 @@
 # Data Science | Applied Statistics
-### Education
+## Education
 M.Sc. Applied Statistics and Data Science, Azusa Pacific University (May 2025)
 
 Data Science Bootcamp, Caltech CTME (Feb 2023)
@@ -7,7 +7,7 @@ Data Science Bootcamp, Caltech CTME (Feb 2023)
 B.Sc. Biology, University of Texas at Arlington (June 2013)
 
 
-### Experience
+## Experience
 Statistics and Biology expert @ Outlier
 - engineered prompts to induce reasoning errors in popular AI models
 - provided expert-level reasoning chunks to guide model responses
@@ -28,17 +28,18 @@ Coordinator of TRIO Programs @ Tarrant County College
 - set up data collection procedures and training for employees
 
 
-### Projects
-Autism Spectrum Disorder Predictive Model
+## Projects
+### Autism Spectrum Disorder Predictive Model
 
-AI Prompt Engineering
+### AI Prompt Engineering
 
-Accreditation Annual Report
+### Accreditation Annual Report
+[Publication](assets/School of Education Performance Report 2023-24 (1).pdf)
 
-Monthly Report (BI)
+### Monthly Report (BI)
 
-Monthly Report (Ed)
+### Monthly Report (Ed)
 
-eCommerce Dynamic Pricing
+### eCommerce Dynamic Pricing
 
-KPI Dashboard
+### KPI Dashboard
