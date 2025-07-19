@@ -39,6 +39,6 @@ Monthly Report (BI)
 
 Monthly Report (Ed)
 
-eCommerce Pricing
+eCommerce Dynamic Pricing
 
 KPI Dashboard
