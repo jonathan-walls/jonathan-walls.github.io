@@ -34,8 +34,8 @@ Coordinator of TRIO Programs @ Tarrant County College
 ### AI Prompt Engineering
 
 ### National Accreditation Annual Report
-[Publication](/assets/School of Education Performance Report 2023-24 (1).pdf)
-This is one of several KPI reports that I worked on every year. It features data from multiple sources including structured, unstructured, and survey data that needed to be joined, cleaned, imputed, and made uniform prior to analysis. Some of those sources were from piplines that I built in Watermark Taskstream, Google Forms, and Mailchimp and oversaw. This project took a year to collect and compile data for and typically about two months to complete and submit for review. After review I would meet with the execultive leadership team and take them through the data. Additional analysis that was used internally (not in the public report) included forecasting based on regression analysis across multiple metrics. This is just one of multiple quarterly and annual reports that I completed over the course of a given year.
+![Publication](/assets/School of Education Performance Report 2023-24 (1).pdf)
+- This is one of several KPI reports that I worked on every year. It features data from multiple sources including structured, unstructured, and survey data that needed to be joined, cleaned, imputed, and made uniform prior to analysis. Some of those sources were from piplines that I built in Watermark Taskstream, Google Forms, and Mailchimp and oversaw. This project took a year to collect and compile data for and typically about two months to complete and submit for review. After review I would meet with the execultive leadership team and take them through the data. Additional analysis that was used internally (not in the public report) included forecasting based on regression analysis across multiple metrics. This is just one of multiple quarterly and annual reports that I completed over the course of a given year.
 
 ### Monthly Report (BI)
 
