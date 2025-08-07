@@ -39,7 +39,7 @@ Coordinator of TRIO Programs @ Tarrant County College
 
 ### 2024-2025 Data Ethics, Law, and Regulation Training Brief 
 [Publication](/assets/Regulations%20Presentation%20Ethics.pdf)
-- This brief was compiled to train new data analysts, statisticians, and data scientists on the context and application of several new data regulations in the United States and European Uniont. This was the companion publication that I researched and wrote to accompany PowerPoint presentations. This presentaiton was successful in creating meaningful and applicable conversations about policies and procedures.
+- This brief was compiled to train new data analysts, statisticians, and data scientists on the context and application of several new data regulations in the United States and European Union. This was the companion publication that I researched and wrote to accompany PowerPoint presentations. This presentaiton was successful in creating meaningful and applicable conversations about policies and procedures.
   
 ### Monthly Report (BI)
 
