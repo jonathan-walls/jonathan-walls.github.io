@@ -30,7 +30,8 @@ Coordinator of TRIO Programs @ Tarrant County College
 
 ## Projects
 ### Autism Spectrum Disorder Predictive Model Research Project Proposal
-[Publication](/assets/Project%20Proposal%202.pdf)- This project is currently being finalized. The attached technical publication is the proposal that I created to get the project off the ground. It contains a detailed write-up of background research and a proposed methodology. I was allowed access to NIMH healtcare data (maternal medical information collected during pregnancy) which I believed, based on current research, would be a potential basis for a predictive model that can be applied as a universal screening algorithm for Autism Spectrum Disorder. This project began as a Masters Culminating Project and continued as the basis for potential grant-funded research. The findings have been novel thus far and show potential to achieve some, if not all, of the goals set forth at the onset of the research question.
+[Publication](/assets/Project%20Proposal%202.pdf)
+- This project is currently being finalized. The attached technical publication is the proposal that I created to get the project off the ground. It contains a detailed write-up of background research and a proposed methodology. I was allowed access to NIMH healtcare data (maternal medical information collected during pregnancy) which I believed, based on current research, would be a potential basis for a predictive model that can be applied as the foundation for a universal screening algorithm for Autism Spectrum Disorder. This project began as a Masters Culminating Project and continued as the basis for potential grant-funded research. The findings have been novel thus far and show potential to achieve some, if not all, of the goals set forth at the onset of the research question.
 
 ### AI Prompt Engineering
 
