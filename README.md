@@ -37,6 +37,10 @@ Coordinator of TRIO Programs @ Tarrant County College
 [Publication](/assets/School%20of%20Education%20Performance%20Report%202023-24%20%281%29.pdf)
 - This is one of several KPI reports that I was solely responsible for and completed every year. It features data from multiple sources including structured, unstructured, and survey data that needed to be joined, cleaned, imputed, and made uniform prior to analysis. Some of those sources were from piplines that I built and oversaw in Watermark Taskstream, Student Learning and Licensure, Google Forms/Sheets, Oracle PeopleSoft (SQL), MS Office (Excel), and Mailchimp. This project took a year to collect and compile data for and typically about two months to complete and submit for review. After review I would meet with the execultive leadership team and take them through the data. Additional analysis that was used internally (not in the public report) included forecasting based on regression analysis across multiple metrics. This is just one of multiple quarterly and annual reports that I completed over the course of a given year. Data engineering was done in excel, SQL, python, SAS, and R on occasion. Data analysis was typically done in Excel, SAS, and python. Data visualization was typically done in excel, Tableau, and SAS.
 
+### 2024-2025 Data Ethics, Law, and Regulation Training Brief 
+[Publication](/assets/Regulations%20Presentation%20Ethics.pdf)
+- This brief was compiled to train new data analysts, statisticians, and data scientists on the context and application of several new data regulations in the United States and European Uniont. This was the companion publication that I researched and wrote to accompany PowerPoint presentations. This presentaiton was successful in creating meaningful and applicable conversations about policies and procedures.
+  
 ### Monthly Report (BI)
 
 ### Monthly Report (Ed)
